@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Shemetov Leonid!</h1>
+        <h1>Any student!</h1>
         <p>Student of group 8V4A TPU</p>
         <p>This site is running on PHP <?= phpversion() ?></p>
     </section>
